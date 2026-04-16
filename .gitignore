@@ -1,0 +1,28 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Model cache (large, re-downloaded on deploy)
+.cache/
+# Uncomment below if you want to NOT cache the model locally:
+# ~/.cache/huggingface/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

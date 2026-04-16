@@ -1,0 +1,66 @@
+SHASHANK GOYAL
+Contact: 8929155621 | Email: shashankgoyal902@gmail.com | Location: Delhi, India
+LinkedIn: www.linkedin.com/in/shashank-goyal-006593203
+GitHub: www.github.com/shashankgoyl
+Portfolio: https://shashankgoyal902.netlify.app/
+
+--- ABOUT ME ---
+I am Shashank Goyal, an AI/ML enthusiast and software developer based in Delhi, India.
+I have experience in building LLM-powered applications, RAG chatbots, REST APIs, and data pipelines.
+I completed my B.Tech in Information Technology from Inderprastha Engineering College (IPEC), AKTU, Ghaziabad, Uttar Pradesh (2020-2024).
+
+--- WORK EXPERIENCE ---
+
+1. AI Intern – CloudStok Technologies, Noida (Dec 2025 – March 2026)
+   - Developed an LLM-powered application to automatically generate professional email drafts using Groq LLM API.
+   - Used LangChain and LangGraph for prompt orchestration and multi-agent workflow execution.
+   - Designed REST APIs with FastAPI and stored draft data feedback using SQLite.
+
+2. Associate Analyst – Vaco Binary Semantics, Gurugram (Dec 2024 – April 2025)
+   - Processed and cleaned datasets for AI model training for improving model accuracy.
+   - Conducted data analysis to deliver actionable insights, optimizing content strategy for Google projects.
+
+3. Associate Analyst – GlobalLogic, Noida (July 2024 – Sept 2024)
+   - Performed data quality audits to ensure accuracy and consistency in digital content datasets.
+   - Utilized SQL and Excel for data preprocessing, visualization, and reporting.
+
+--- EDUCATION ---
+
+- B.Tech in Information Technology, Inderprastha Engineering College (IPEC), AKTU, Ghaziabad, UP (2020-2024)
+- CBSE Class XII – Guru Harkrishan Public School (GHPS), Shahdara, Delhi (2020)
+- CBSE Class X – Guru Harkrishan Public School (GHPS), Shahdara, Delhi (2018)
+
+--- SKILLS ---
+
+Programming Languages: Python (Pandas, NumPy), SQL, SQLite
+AI/ML Frameworks & Tools: Transformers, LLMs, NLP, FastAPI, LangChain, LangGraph, RAG, Hugging Face
+Development Tools: Git, GitHub, Docker, PyCharm
+Vector Databases: FAISS
+APIs: Groq API, OpenAI-compatible APIs
+
+--- PROJECTS ---
+
+1. RAG Chatbot (Python, LangChain, RAG, FastAPI, FAISS)
+   - Built an LLM-powered RAG chatbot using Groq API, LangChain, and FAISS to deliver context-aware responses from Google Drive documents.
+   - Developed scalable FastAPI-based backend APIs for real-time chat handling and conversation management.
+   - Implemented document ingestion pipeline with Google Drive integration and containerized the application using Docker for seamless deployment.
+
+2. Email Draft Generator (LangChain, LangGraph, Groq, FastAPI, SQLite)
+   - LLM-powered application that automatically generates professional email drafts.
+   - Used LangGraph for multi-agent workflow orchestration.
+
+--- ACHIEVEMENTS ---
+
+- Robotech (Robotics Event): Secured 3rd position in the competition, demonstrating teamwork and technical skills.
+- Mercy For Animals India (MFA): Volunteer at NGO and recognized as Best Volunteer of the Year 2023.
+- Salesforce Developer Certification (SmartInternz): Gained strong knowledge of Salesforce Flow, automation, and process tools.
+- Code2Duo: Secured 3rd place in the college programming competition.
+
+--- CONTACT ---
+
+If you want to hire me, collaborate, or just say hi:
+Email: shashankgoyal902@gmail.com
+Phone: 8929155621
+LinkedIn: linkedin.com/in/shashank-goyal-006593203
+GitHub: github.com/shashankgoyl
+Portfolio Website: shashankgoyal902.netlify.app
