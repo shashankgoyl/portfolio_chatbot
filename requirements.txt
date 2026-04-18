@@ -3,19 +3,10 @@ uvicorn[standard]
 pydantic
 python-dotenv
 
-# LangChain stack
 langchain
 langchain-core
 langchain-community
 langchain-text-splitters
 langchain-groq
-langchain-huggingface
 
-# Vector store
-faiss-cpu
-
-# Embeddings (free, local)
-sentence-transformers
-
-# Other
 httpx

@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: portfolio-chatbot
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false          # You fill this in Render dashboard
+      - key: PORT
+        value: "8000"
+      - key: GROQ_MODEL
+        value: llama-3.1-8b-instant
+      - key: GROQ_TEMPERATURE
+        value: "0.5"
+      - key: GROQ_MAX_TOKENS
+        value: "1024"
+    healthCheckPath: /health

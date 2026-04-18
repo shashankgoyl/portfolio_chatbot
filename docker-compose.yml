@@ -1,5 +1,4 @@
 version: "3.9"
-
 services:
   portfolio-chatbot:
     build: .
@@ -15,4 +14,4 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-      start_period: 90s   # Give time for model download + FAISS build
+      start_period: 20s   # Much faster now — no model download
